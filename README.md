@@ -11,7 +11,7 @@
 <a href="mailto:deepanshu2912001@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-B69A5A?style=for-the-badge&logo=gmail&logoColor=173F35" /></a>
 
 <br/>
-<img src="./assets/me.gif)" width="100%" alt="Illustration of a developer working at a coding desk" />
+<img src="/assets/me.png" width="70%" alt="Illustration of a developer working at a coding desk" />
 
 </div>
 
