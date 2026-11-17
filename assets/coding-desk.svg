@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc">
+<title id="title">A developer at a creative coding desk</title>
+<desc id="desc">A person in a forest green sweater working at a laptop, surrounded by a plant, books, a lamp and abstract AI network details on a warm cream background.</desc>
+<defs>
+  <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#FBF8EF"/><stop offset="1" stop-color="#EEE8D8"/></linearGradient>
+  <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#254F43"/><stop offset="1" stop-color="#102F28"/></linearGradient>
+</defs>
+<rect width="1100" height="560" rx="28" fill="url(#paper)"/>
+<circle cx="880" cy="160" r="116" fill="#E7DFC9" opacity=".5"/>
+<g fill="none" stroke="#B69A5A" stroke-width="2" opacity=".65">
+ <path d="M760 96 830 58 908 84 972 42M830 58l15 92 63-66 64 78M845 150l78 38 49-30M908 84l15 104"/>
+ <circle cx="760" cy="96" r="5" fill="#B69A5A"/><circle cx="830" cy="58" r="5" fill="#B69A5A"/><circle cx="908" cy="84" r="5" fill="#B69A5A"/><circle cx="972" cy="42" r="5" fill="#B69A5A"/><circle cx="845" cy="150" r="5" fill="#B69A5A"/><circle cx="923" cy="188" r="5" fill="#B69A5A"/><circle cx="972" cy="158" r="5" fill="#B69A5A"/>
+</g>
+<g stroke="#173F35" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M74 370V220M74 278c-48-8-55-47-49-66 35 4 57 27 49 66ZM74 322c44-8 57-39 51-61-35 2-57 24-51 61ZM74 248c-25-21-23-52-6-70 26 17 31 43 6 70Z" fill="#8A9D78" stroke="#173F35"/>
+ <path d="M64 370h55" />
+</g>
+<g>
+ <path d="M0 426c190-26 314 24 470 0s326-31 630 3v131H0Z" fill="#D8D0BC" opacity=".6"/>
+ <rect x="80" y="422" width="940" height="18" rx="9" fill="#173F35"/>
+ <rect x="111" y="440" width="14" height="84" rx="5" fill="#173F35"/><rect x="975" y="440" width="14" height="84" rx="5" fill="#173F35"/>
+</g>
+<!-- seated developer -->
+<path d="M395 406c-6-70 16-135 67-160 38-19 91-5 115 28 23 32 22 79 14 132Z" fill="#1D493D"/>
+<path d="M429 285c-17 24-20 61-12 91l-32 30c-14 13-10 35 10 38h120l-3-100Z" fill="#173F35"/>
+<path d="M475 251c-10-14-12-32-7-49 9-33 47-48 77-31 28 16 33 55 12 78-18 19-58 22-82 2Z" fill="#D8A77C"/>
+<path d="M465 208c-2-31 19-56 49-59 28-3 49 16 54 39-12-7-24-8-36-5-13 4-21 15-37 17-9 1-20 4-30 8Z" fill="#292B25"/>
+<path d="M475 235c14 12 39 14 58 3" stroke="#8B5E48" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="506" cy="216" r="3.5" fill="#292B25"/>
+<path d="M528 259c14 10 22 22 27 38" stroke="#D8A77C" stroke-width="14" stroke-linecap="round"/>
+<path d="M545 298 612 346" stroke="#D8A77C" stroke-width="14" stroke-linecap="round"/>
+<!-- laptop -->
+<path d="M558 330h236l-18 99H540Z" fill="url(#screen)" stroke="#173F35" stroke-width="4"/>
+<path d="M538 429h256l29 12H510Z" fill="#B69A5A" stroke="#173F35" stroke-width="3"/>
+<g stroke="#D8C99E" stroke-width="3" opacity=".9">
+ <path d="M588 357h90M588 371h68M588 385h104M588 399h77"/>
+</g>
+<circle cx="720" cy="389" r="15" fill="#B69A5A" opacity=".7"/>
+<!-- mug and books -->
+<rect x="175" y="386" width="58" height="39" rx="7" fill="#B69A5A"/>
+<path d="M233 395h12c17 0 17 23 0 23h-12" fill="none" stroke="#173F35" stroke-width="5"/>
+<path d="M829 402h117v17H829Z" fill="#B69A5A"/><path d="M841 381h105v17H841Z" fill="#315D4D"/><path d="M852 360h94v17h-94Z" fill="#D8C99E"/>
+<!-- lamp -->
+<path d="M930 420 968 312 1000 312 1032 420" fill="none" stroke="#173F35" stroke-width="7" stroke-linecap="round"/>
+<path d="M953 309h65l-14-42h-37Z" fill="#B69A5A" stroke="#173F35" stroke-width="4"/>
+<path d="M985 268v-25" stroke="#173F35" stroke-width="5" stroke-linecap="round"/>
+<g fill="#B69A5A"><circle cx="310" cy="116" r="4"/><circle cx="344" cy="90" r="3"/><circle cx="380" cy="128" r="4"/></g>
+<g fill="#173F35" font-family="Arial,sans-serif"><text x="120" y="105" font-size="19" letter-spacing="4">IDEAS → SYSTEMS → SOFTWARE</text></g>
+<path d="M120 130h230" stroke="#B69A5A" stroke-width="3"/>
+</svg>
