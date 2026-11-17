@@ -184,7 +184,7 @@ An autonomous CLI-based AI agent that can manage files, execute terminal command
 
 An AI-powered search application inspired by Perplexity, providing contextual information retrieval using LLMs and SLMs.
 
-`Python` `LangChain` `Streamlit` `Phi`
+`Python` `LangChain` `Streamlit` `Phi-3.5`
 
 [View repository →](https://github.com/Deepanshu291/DhristiAI)
 
@@ -227,7 +227,7 @@ A real-time chat application featuring private conversations, live message updat
 
 A social application with posting, liking and following functionality.
 
-`Flutter` `Dart` `Appwrite`
+`Flutter` `Dart` `Appwrite` `Riverpod`
 
 [View repository →](https://github.com/Deepanshu291/TwitterOne)
 
@@ -240,7 +240,9 @@ A social application with posting, liking and following functionality.
 
 A Flutter application for fetching and displaying news articles in an interactive reading experience.
 
-`Flutter` `Dart` `HTTP`
+`Flutter` `Dart` `HTTP` `Provider`
+
+[View repository →](https://github.com/Deepanshu291/Newsone)
 
 </td>
 </tr>
