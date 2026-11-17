@@ -11,8 +11,7 @@
 <a href="mailto:deepanshu2912001@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-B69A5A?style=for-the-badge&logo=gmail&logoColor=173F35" /></a>
 
 <br/>
-
-<img src="assets/coding-desk.svg" width="100%" alt="Illustration of a developer working at a coding desk" />
+<img src="./assets/me.gif)" width="100%" alt="Illustration of a developer working at a coding desk" />
 
 </div>
 
@@ -66,16 +65,16 @@ React, Next.js, TypeScript, Flutter and intuitive user experiences.
 ### ⚙️ My toolkit
 
 **AI / GenAI**  
-<img src="https://img.shields.io/badge/LangChain-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/LangGraph-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/CrewAI-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/LlamaIndex-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-173F35?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-173F35?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-173F35?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-B69A5A?style=flat-square" /> <img src="https://img.shields.io/badge/LangGraph-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/CrewAI-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/LlamaIndex-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-173F35?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-173F35?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-173F35?style=flat-square" />
 
 **Data / MLOps**  
 <img src="https://img.shields.io/badge/Databricks-B69A5A?style=flat-square&logo=databricks&logoColor=173F35" /> <img src="https://img.shields.io/badge/MLflow-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/RAGAS-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-173F35?style=flat-square&logo=streamlit&logoColor=white" />
 
 **Backend / Frontend / Mobile**  
-<img src="https://img.shields.io/badge/Python-173F35?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-173F35?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-173F35?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-173F35?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-173F35?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-173F35?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-173F35?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-173F35?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-B69A5A?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-173F35?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-173F35?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-173F35?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-173F35?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-173F35?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-173F35?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-173F35?style=flat-square&logo=flutter&logoColor=white" />
 
 **Cloud / DevOps / Databases**  
-<img src="https://img.shields.io/badge/Azure-173F35?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_AI_Foundry-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-173F35?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-173F35?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-173F35?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-173F35?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-173F35?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-173F35?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-B69A5A?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_AI_Foundry-173F35?style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-173F35?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-173F35?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-173F35?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-173F35?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-173F35?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-173F35?style=flat-square&logo=azuredevops&logoColor=white" />
 
 <details>
 <summary><b>＋ More tools & languages</b></summary>
