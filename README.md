@@ -1,33 +1,334 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Sharma</h1>
-<h3 align="left">I am very Enthusiastic Developer to learn new technology like Flutter, MERN, And I am a Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu291&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu291" /> </p>
+<img src="assets/neural-network.gif" width="100%" alt="Animated warm-toned neural network" />
 
-- 🌱 I’m currently learning **Flutter , Android with jetpack compose,💻**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://deepanshu291.github.io/](https://deepanshu291.github.io/)
+# Deepanshu Sharma
 
-- 💬 Ask me about **React , Flutter , MERN, Python, UI/UX 🧑‍💻**
+### AI Full Stack Engineer · GenAI & Data Engineer
 
-- 📫 How to reach me **deepanshu2912001@gmail.com 📧**
+**Building intelligent systems through thoughtful engineering.**
 
-- 📄 Know about my experiences [shorturl.at/gpILY](shorturl.at/gpILY)
-
-- ⚡ Fun fact **I Think i have a good sense of humour 😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepanshu291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu291" height="30" width="40" /></a>
-<a href="https://fb.com/deepanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepanshu sharma" height="30" width="40" /></a>
+<p>
+  <a href="https://deepanshusharma.me"><img src="https://img.shields.io/badge/Portfolio-A65B43?style=flat-square&logo=astro&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/deepanshu291"><img src="https://img.shields.io/badge/LinkedIn-292723?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deepanshu2912001@gmail.com"><img src="https://img.shields.io/badge/Email-A65B43?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Deepanshu291&label=PROFILE%20VIEWS&color=A65B43&style=flat-square" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deepanshu291&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false" alt="deepanshu291" /></p>
-<br>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu291&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="deepanshu291" /></p>
+---
 
+## About Me
 
+I'm a developer from **Delhi, India**, passionate about building intelligent applications at the intersection of Artificial Intelligence, Data Engineering, Backend Engineering, and Full Stack Development.
+
+Currently, I work at **Tata Consultancy Services (TCS)** as a **GenAI Data Engineer**, contributing to enterprise AI and data engineering solutions.
+
+My journey started with web development in 2019, evolved through Flutter and full-stack development, and expanded into Generative AI and intelligent systems.
+
+I enjoy working across the entire engineering lifecycle — from designing data workflows and backend architectures to building AI agents and user-facing applications.
+
+### What I'm interested in
+
+- **Agentic AI:** Autonomous agents, multi-agent orchestration and MCP.
+- **Generative AI:** RAG, multimodal retrieval, LLMs and SLMs.
+- **Data Engineering:** Databricks, MLflow and enterprise data workflows.
+- **Backend Engineering:** Python, Django, FastAPI and scalable APIs.
+- **Full Stack:** React, Next.js and modern application architecture.
+- **Cloud Engineering:** Azure, infrastructure automation and DevOps.
+
+> I enjoy turning complex problems into practical, intelligent and maintainable software.
+
+---
+
+## Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Agentic AI
+
+Designing intelligent agents and workflows with LangGraph, CrewAI, LangChain and MCP.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Data & AI Platforms
+
+Working with Databricks, MLflow, RAGAS, embeddings and enterprise data workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Backend Systems
+
+Building reliable APIs, scalable services and backend architectures with Python and Django.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Full Stack Applications
+
+Developing end-to-end applications using React, Next.js, TypeScript and modern cloud services.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
+
+A broad engineering toolkit spanning AI, data, backend, cloud, frontend and mobile development.
+
+### Artificial Intelligence & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/CrewAI-A65B43?style=flat-square" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B4EFF?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-292723?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-A65B43?style=flat-square" />
+</p>
+
+`LLMs` · `SLMs` · `RAG` · `Multimodal RAG` · `AI Agents` · `MCP` · `Embeddings` · `Vector Search` · `Unsloth` · `TRL` · `PEFT` · `SFT` · `Fine-tuning`
+
+### Data Engineering & MLOps
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/RAGAS-A65B43?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-292723?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-292723?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+### Frontend & Application Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-292723?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+### Databases & Storage
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `SQLite` · `ChromaDB` · `Firebase` · `Appwrite` · `Azure Cosmos DB`
+
+### Mobile & Programming Languages
+
+`Flutter` · `Dart` · `Kotlin` · `Jetpack Compose` · `Java` · `C` · `C++` · `Python` · `JavaScript` · `TypeScript`
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Bhai CLI
+
+**Multipurpose AI Agent**
+
+An autonomous CLI-based AI agent that can manage files, execute terminal commands and perform web searches through agentic orchestration.
+
+`Python` `CrewAI` `LangGraph` `Langfuse`
+
+[View repository →](https://github.com/Deepanshu291/Multipurpose-AI-Agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · DhristiAI
+
+**AI-powered Search**
+
+An AI-powered search application inspired by Perplexity, providing contextual information retrieval using LLMs and SLMs.
+
+`Python` `LangChain` `Streamlit` `Phi`
+
+[View repository →](https://github.com/Deepanshu291/DhristiAI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · PyOne
+
+**Online Python Compiler**
+
+A Django-based online compiler that lets users write and execute Python code directly in the browser.
+
+`Python` `Django` `JavaScript`
+
+[View repository →](https://github.com/Deepanshu291/Pyone-Online-Compiler)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · ChatApp
+
+**Real-time Messaging**
+
+A real-time chat application featuring private conversations, live message updates and online status indicators.
+
+`React` `TypeScript` `Node.js` `Socket.IO`
+
+[View repository →](https://github.com/Deepanshu291/ChatApp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · TwitterOne
+
+**Flutter Social Application**
+
+A social application with posting, liking and following functionality.
+
+`Flutter` `Dart` `Appwrite`
+
+[View repository →](https://github.com/Deepanshu291/TwitterOne)
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · Newsone
+
+**Mobile News Application**
+
+A Flutter application for fetching and displaying news articles in an interactive reading experience.
+
+`Flutter` `Dart` `HTTP`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+### Tata Consultancy Services (TCS)
+**GenAI Data Engineer** · December 2024 – Present
+
+Working across enterprise GenAI, data engineering and application development.
+
+- Databricks-based enterprise data engineering and data workflows.
+- Multimodal RAG pipelines and multi-agent architectures.
+- Azure AI Foundry, LangChain and LangGraph.
+- MLflow and RAGAS for AI evaluation.
+- Python and n8n workflow automation.
+- Infrastructure automation with Terraform and Azure DevOps.
+- Application monitoring using Datadog.
+- Application development with Next.js.
+
+**Technologies:** Databricks · Azure · Azure AI Foundry · Python · MLflow · RAGAS · LangChain · LangGraph · LlamaIndex · MCP · Terraform · Azure DevOps · n8n · Datadog · Next.js
+
+### Freelance / Startup Projects
+**Full Stack Web Developer** · June 2020 – November 2024
+
+- Developed full-stack applications using React, Next.js and Django.
+- Designed and maintained database schemas and backend APIs.
+- Implemented authentication, authorization and frontend functionality.
+- Delivered applications for clients and startups.
+
+### Gadachandi Mining Corporation
+**Web Developer / Frontend Developer** · June 2020 – July 2022
+
+- Developed responsive applications and interfaces using React and Flutter.
+- Optimized web performance and implemented client-requested features.
+- Contributed to the company's digital presence.
+
+---
+
+## GitHub Insights
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepanshu291&show_icons=true&hide_border=true&bg_color=F3F0E9&title_color=A65B43&text_color=514A43&icon_color=A65B43&ring_color=A65B43" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu291&layout=compact&hide_border=true&bg_color=F3F0E9&title_color=A65B43&text_color=514A43" alt="Top languages" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Deepanshu291&hide_border=true&background=F3F0E9&ring=A65B43&fire=A65B43&currStreakLabel=A65B43&sideLabels=514A43&currStreakNum=292723&sideNums=292723&dates=77766C" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deepanshu291/Deepanshu291/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="100%" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in conversations around:
+
+- Generative AI and Agentic AI.
+- AI Full Stack Engineering.
+- RAG, LLMs and multi-agent architectures.
+- Databricks and Data Engineering.
+- Backend architecture and cloud technologies.
+- Open-source projects and engineering collaborations.
+
+<div align="center">
+
+### Have an interesting idea? Let's build something meaningful.
+
+<a href="https://deepanshusharma.me"><img src="https://img.shields.io/badge/Explore_My_Portfolio-A65B43?style=for-the-badge&logo=astro&logoColor=white" /></a>
+<a href="mailto:deepanshu2912001@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-292723?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*Building intelligent systems, one experiment at a time.*
+
+</div>
